@@ -1,0 +1,215 @@
+@font-face {
+    font-family: "Gugi";
+    src: url(/fonts/Gugi-Regular.ttf);
+}
+
+.text-gray {
+	color: #485460;
+}
+
+.text-cloud {
+	color: #c1cdd1;
+}
+
+.no-margin-bottom {
+	margin-bottom: 0px !important;
+}
+
+.inline-block {
+	display: inline-block !important;
+}
+
+.block {
+	display: block !important;
+}
+
+.black-link {
+	color: #000000;
+}
+
+.underlined {
+	text-decoration: underline;
+}
+
+.margin-right-short {
+	margin-right: 5px !important;
+}
+
+.margin-left-short {
+	margin-left: 5px !important;
+}
+
+.margin-right-medium {
+	margin-right: 15px !important;
+}
+
+.margin-left-medium {
+	margin-left: 15px !important;
+}
+
+.margin-bottom-big {
+	margin-bottom: 1rem !important;
+}
+
+.margin-bottom-short {
+	margin-bottom: 5px !important;
+}
+
+.margin-bottom-huge {
+	margin-bottom: 2rem !important;
+}
+
+.navbar-custom {
+	padding-top: 2rem;
+	padding-right: 2rem;
+	padding-bottom: 2rem;
+	background-color: #0E477A !important;
+	border-radius: 0px !important;
+}
+
+.navbar-custom * {
+	color: #ffffff !important;
+}
+
+.jumbotron-background {
+	background: url(../images/hero.png) center;
+	background-size: cover;
+	max-height: 500px;
+	height: 500px;
+	border-radius: 0px !important;
+	color: #ffffff !important;
+}
+
+.input-custom:focus {
+	outline: none !important;
+}
+
+.input-custom {
+	padding: 15px 16px !important;
+	border: 0px !important;
+}
+
+.input-group-append-custom {
+	background-color: #ffffff;
+	border: 0px !important;
+}
+
+.input-group-append-with-border {
+	background-color: #ffffff;
+}
+
+.input-with-border {
+	border-right: 0px;
+	padding: 15px 16px !important;
+}
+
+.input-group-append-home {
+	background-color: #ffffff;
+}
+
+.section {
+	margin-top: 5rem;
+	margin-bottom: 3rem;
+}
+
+.padding-big {
+	padding: 3rem;
+}
+
+.info-section img {
+	display: inline-block;
+	margin-bottom: 2rem;
+	width: 150px;
+}
+
+.info-section p {
+	font-size: 1rem;
+}
+
+.sub-section {
+	padding: 5rem;
+	background-color: #FC7C01;
+	color: #ffffff;
+}
+
+.sub-section img {
+	width: 100%;
+}
+
+.info-card {
+	height: 200px;
+}
+
+.custom-card-footer {
+	background-color: #ffffff;
+	border-top: 0px;
+}
+
+.custom-card-header {
+	background-color: #ffffff;
+	border-bottom: 0px;
+}
+
+.no-border-radius {
+	border-radius: 0px;
+}
+
+.footer-copyright {
+	background-color: #323741;
+	padding: 20px;
+	color: #ffffff;
+}
+
+.footer-signup {
+	background-color: rgb(62, 69, 81);
+	border-top: 1px solid #323741;
+	padding: 35px;
+	color: #ffffff;
+}
+
+.footer-signup a {
+	-webkit-box-shadow: 2px 3px 13px -8px rgba(0,0,0,0.75);
+	-moz-box-shadow: 2px 3px 13px -8px rgba(0,0,0,0.75);
+	box-shadow: 2px 3px 13px -8px rgba(0,0,0,0.75);
+}
+
+.footer-about-us {
+	line-height: 2rem;
+}
+
+.footer-about-us a {
+	color: #ffffff;
+}
+
+.footer-about-us h4 {
+	padding-left: 80px;
+}
+
+.footer-about-us ul li {
+	padding-left: 40px;
+}
+
+.footer-about-us ul {
+	list-style-type: none;
+}
+
+.shadow-light {
+	-webkit-box-shadow: 0px 0px 30px 5px rgba(209,207,209,1);
+	-moz-box-shadow: 0px 0px 30px 5px rgba(209,207,209,1);
+	box-shadow: 0px 0px 30px 5px rgba(209,207,209,1);
+}
+
+.font-gugi {
+	font-family: 'Gugi', cursive !important;
+}
+
+.link-card:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.h4 {
+	font-size: 1.35rem;
+	margin-bottom: 8px;
+	display: block;
+}
